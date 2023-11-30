@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+h1 {
+    background-color: rgb(61, 61, 61);
+    text-align: center;
+    color: white;
+    padding: 16px;
+    
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 14px;
+    text-align: center;
+    
+    
+    
+}
+img{
+    width: 50%;
+    box-shadow: 10px black;
+}
+.a{
+    background-color: rgb(61, 61, 61);
+    border-radius: 10px;
+}
+
+p, span{
+    color: white;
+margin-right: 35%;
+
+
+
+}

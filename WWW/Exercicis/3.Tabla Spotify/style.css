@@ -1,0 +1,44 @@
+/* ************** ESTILOS GENERALES PÁGINA ************** */
+body{
+    background-color: rgb(26, 26, 26);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* *************  ESTILOS TABLA ***************** */
+table{
+
+width: 100%;
+border-collapse: collapse;
+}
+
+
+
+/* *************  ESTILOS ENCABEZADOS TABLA ***************** */
+.maria th {
+    font-size: 20px;
+    background-color: rgb(0, 117, 98);
+}
+
+
+/* *************  ESTILOS FILA TABLA ***************** */
+
+.CR7{
+
+color: white;
+
+}
+
+td{
+
+color: white;
+
+
+}
+
+.tema span {
+
+display: block;
+width: 100%;
+font-size: 0.7rem;
+}

@@ -1,0 +1,89 @@
+#logo{
+   margin-left: 40%; 
+   width: 20%;
+}
+h1{
+text-align: center;
+   color: red;
+   margin-left: 3%;
+}
+
+p{
+color: red;
+text-align: center;
+margin-left: 3%;
+}
+
+td, tr, table{
+   background-color: #e0e0e0;
+margin-left: 35%;
+width: 35%;
+
+}
+
+
+t{
+color: red;
+text-align: center;
+margin-left: 45%;
+}
+hr{
+color: black;
+width: 30%;
+
+}
+
+b{
+margin-left: 35%;
+color: black;
+
+
+
+
+}
+te{
+color: black;
+text-align: center;
+ margin-left: 35%;
+ margin right: -28%;
+}
+
+img{
+
+margin-left: 35%;
+
+}
+
+th {
+
+color: red;
+
+
+
+}
+
+.table3{
+
+
+   background-color: white;
+}
+
+.bro{
+
+   background-color: white;
+}
+
+.bro2{
+
+   background-color: white;
+}
+
+
+
+.messi{
+margin-left: 50%;
+
+background-color: white;
+}
+
+
